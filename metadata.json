@@ -1,0 +1,6 @@
+{
+  "name": "Sumi Care Foundation",
+  "description": "Official website and service portal for Sumi Care Foundation, an ISO 9001:2015 Certified Non-Profit NGO promoting healthcare, education, clean water, solar power, health cards, and rural empowerment.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
